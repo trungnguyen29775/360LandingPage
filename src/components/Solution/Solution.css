@@ -1,0 +1,102 @@
+.container{
+    margin-top: 90px;
+}
+.mt20{
+    margin-top: 20px !important;
+}
+
+.mb20{
+    margin-bottom: 20px!important;
+}
+
+.center{
+    text-align: center !important;
+}
+
+.container{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.layer-wrap{
+    display: flex;
+    flex-direction: row;
+    min-width: 90%;
+    padding: 25px 0 25px 0;
+    font-family: "Raleway","Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container-left{
+    width: 70%;
+    padding-top: 5.5rem;
+    padding-bottom: 2.5rem;
+    padding-left: 30px;
+}
+
+.title{
+    font-size: 2.5rem;
+    margin-bottom: 1.2rem;
+}
+
+.sub-title{
+    font-size: 1.7rem;
+    line-height: 2.2rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid rgba(145, 145, 145, 0.57);
+    font-weight: 100;
+}
+
+.script{
+    margin: 0 0 20px 0;
+}
+
+
+.container-right{
+    width: 30%;
+    margin-top: 32px;
+    padding-left: 10px;
+}
+
+.side-nav{
+    margin-bottom: 0;
+}
+.sidelist{
+    padding-left: 30px;
+}
+
+.sidelist li{
+    list-style-type: none;
+    padding: 9px 0 9px 10px;
+}
+
+.sidelist li a{
+    text-decoration: none;
+    color: black;
+}
+
+.first{
+    border-bottom: 1px solid rgba(145, 145, 145, 0.57);
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.grid-feature{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 100%;
+}
+
+.grid-element{
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    padding-left: 30px;
+}
+
+.grid-element h4{
+    margin-top: 40px;
+    line-height: 1.4;
+    margin-bottom: 1rem;
+    color: #333;
+    text-transform: none;
+}
